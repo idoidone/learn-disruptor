@@ -12,3 +12,14 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+
+#Folder
+disruptor/.settings/
+disruptor/target/
+disruptor/.classpath
+disruptor/.project
+.settings/
+
+#Eclipse file
+.classpath
+.project
